@@ -65,6 +65,7 @@ I am a passionate AI engineer, leader, and entrepreneur focused on pushing the b
 - :book: Tech bookworm
 - Fascinated by the cosmos and space exploration! 
 
-### 🖥️ My DevSetup
-
-<img src="https://img.shields.io/badge/-ROG--G14-F5F5F5?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADbUlEQVRYR%2B2WbUxbVRjHfy2l0PLigEiARZw6JC5u8UuHJmp02UxBIosMp
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavelrh&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Pavelrh's's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelrh&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
+</p>
