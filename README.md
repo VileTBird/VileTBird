@@ -7,9 +7,23 @@
 #### 📬 Find me at 
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/shridhara-pavel)](https://github.com/shridhara-pavel) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shridhara-pavel/)](https://linkedin.com/in/shridhara-pavel) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/shridhara_pavel)](https://twitter.com/shridhara_pavel) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shridhara.pavel@gmail.com)](mailto:shridhara.pavel@gmail.com)
 
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## A little about me...  <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/rcBKwWemNjg6PTw8io" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/robot-droids-open-rcBKwWemNjg6PTw8io">via GIPHY</a></p>
 
-I am a passionate AI engineer, leader, and entrepreneur focused on pushing the boundaries of AI technology to solve real-world challenges. As the founder and project lead of Locallu and Kozot, I'm working on innovative solutions in AI task delegation, decentralized AI, and robotics.
+Hey there! I'm Shridhara Pavel, a tech enthusiast working mostly on AI and startups. Over the past couple of years, I've been freelancing, creating games, leading/building startups, developing websites and training machine learning models.
+
+I run three cool startups under my holding company 41 Inc.:
+
+1. Kozot: Crafting smart devices and robotics for smart cities.
+2. Locallu: Building the world's first multi-LLM interaction x human engine for a groundbreaking approach to AGI.
+3. LegalDad: Making legal document prep super easy for everyone.
+
+I'm also doing some exciting AI research with a computer science professor on Self-Observing agents & Real-Time Decision Making Engines, though I can't spill all the details just yet.
+
+I love bringing my wild abstract ideas to life with Unity, Kotlin, Android Studio, and Full stack frameworks, but my true passion is in AI, Machine Learning & entrepreneurship. This has been a game-changer for my startups. My non technical skills also includes team management, public pitching in events, fund-raising, and working at hackathons, which have sharpened my communication and leadership skills.
+
+One of my proudest moments was being considered for a $25K grant by Internet computer (ICP), which shows the impact of my work.
+
+I'm always up for new challenges and opportunities to innovate. Let's connect and create something awesome together!.
 
 <br/>
 
