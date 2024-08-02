@@ -18,10 +18,6 @@ I run three cool startups under my holding company 41 Inc.:
 
 I'm also doing some AI research with a computer science professor on Self-Observing agents & Real-Time Decision Making Engines & writing a research paper on it, though I can't spill all the details just yet.
 
-I love bringing my wild abstract ideas to life with Unity, Kotlin, Android Studio, and Full stack frameworks, but my true passion is in AI, Machine Learning & entrepreneurship. This has been a game-changer for my startups. My non technical skills also includes team management, public pitching in events, fund-raising, and working at hackathons, which have sharpened my communication and leadership skills.
-
-One of my proudest moments was being considered for a $25K grant by Internet computer (ICP), which shows the impact of my work.
-
 I aim to revolutionize big tech & the world with my expertise. Let's connect and create something awesome together!.
 
 <br/>
