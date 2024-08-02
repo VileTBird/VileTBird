@@ -1,15 +1,14 @@
-<h1> Hi there! I am <a href="https://github.com/shridhara-pavel">Shridhara Pavel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> Hi there! I am <a href="https://github.com/Pavelrh">Shridhar Pavel</a></h1>
 
-<img src="https://komarev.com/ghpvc/?username=shridhara-pavel&&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=Pavelrh&&style=flat-square" align="left" />
 
 <br />
 
 #### 📬 Find me at 
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/shridhara-pavel)](https://github.com/shridhara-pavel) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shridhara-pavel/)](https://linkedin.com/in/shridhara-pavel) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://twitter.com/shridhara_pavel)](https://twitter.com/shridhara_pavel) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shridhara.pavel@gmail.com)](mailto:shridhara.pavel@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/Pavelrh)](https://github.com/Pavelrh) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/shridhara-pavel-r-u-4248a4265](https://www.linkedin.com/in/shridhara-pavel-r-u-4248a4265/)/)](https://linkedin.com/in/shridhara-pavel-r-u-4248a4265) [![Twitter Badge](http://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=twitter&logoColor=darkblue&link=https://x.com/asuraspru)](https://x.com/asuraspru) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shridharapavel@gmail.com)](mailto:shridharapavel@gmail.com)
 
-## A little about me...  <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/rcBKwWemNjg6PTw8io" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/robot-droids-open-rcBKwWemNjg6PTw8io">via GIPHY</a></p>
-
-Hey there! I'm Shridhara Pavel, a tech enthusiast working mostly on AI and startups. Over the past couple of years, I've been freelancing, creating games, leading/building startups, developing websites and training machine learning models.
+## A little about me:
+Hey there! I'm Shridhara Pavel, a tech enthusiast working mostly on research papers and startups. Over the past couple of years, I've been freelancing, creating games, leading/building startups, developing websites and training machine learning/transformer models.
 
 I run three cool startups under my holding company 41 Inc.:
 
@@ -17,69 +16,48 @@ I run three cool startups under my holding company 41 Inc.:
 2. Locallu: Building the world's first multi-LLM interaction x human engine for a groundbreaking approach to AGI.
 3. LegalDad: Making legal document prep super easy for everyone.
 
-I'm also doing some exciting AI research with a computer science professor on Self-Observing agents & Real-Time Decision Making Engines, though I can't spill all the details just yet.
+I'm also doing some AI research with a computer science professor on Self-Observing agents & Real-Time Decision Making Engines & writing a research paper on it, though I can't spill all the details just yet.
 
 I love bringing my wild abstract ideas to life with Unity, Kotlin, Android Studio, and Full stack frameworks, but my true passion is in AI, Machine Learning & entrepreneurship. This has been a game-changer for my startups. My non technical skills also includes team management, public pitching in events, fund-raising, and working at hackathons, which have sharpened my communication and leadership skills.
 
 One of my proudest moments was being considered for a $25K grant by Internet computer (ICP), which shows the impact of my work.
 
-I'm always up for new challenges and opportunities to innovate. Let's connect and create something awesome together!.
+I aim to revolutionize big tech & the world with my expertise. Let's connect and create something awesome together!.
 
 <br/>
 
-## 👨‍💻 I can code in...
+## Languages:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:4px"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,python,javascript," />
+  </a>
 </p>
 
-## 🤹 Skill Zone
+
+## Skill Zone:
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,kali,linux,bash,anaconda,tensorflow,pytorch,sklearn,opencv,raspberrypi,arduino,unity,unreal,androidstudio,firebase,mysql,mongodb,selenium,nodejs,dotnet,nextjs,react,angular,express,discordjs,kubernetes,docker,git,github,notion,jira" />
+  </a>
+  </p>
+
+## What am I doing right now?
+
+- I’m currently working on Locallu, the world's first multi-LLM interaction x human expertise engine for a reasonable attempt at AGI, as well as the BigBro Collective, a project on a multi llm-agent system for swarm robotics & smart city devices at Kozot an innovative robotics Startup.
+- On the side I'm working on a research paper with a Computer Science Professor on Self Observing Agent's for llms & Multi Agent systems for smart cities.
+- I also work on my cybersecurity skills with Kali Linux, and various Penetration testing tools.
+- I read new Research Papers on AI & Robotics in my free time.
+- I like sports & I'm very athletic.
+- I watch Anime & play Video Games Occasionally.
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavelrh&show_icons=true&locale=en&layout=compact" alt="Pavelrh" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/Node--Js-green?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavelrh&show_icons=true&locale=en" alt="Pavelrh" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-lightblue?&style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-white?&style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-white?&style=for-the-badge&logo=kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=blue" /> <img src="https://img.shields.io/badge/kubeflow-blue?style=for-the-badge&logo=Kubeflow&logoColor=blue" /> 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-lightblue?style=for-the-badge&logo=terraform&logoColor=purple" /> <img src="https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=ansible&logoColor=black" />  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/> 
-</p>
-
-<br/>
-
-<details>
-  <summary><b>Click to know more about me! 😄 <b></summary>
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working on Locallu, the world's first multi-LLM interaction x human engine for business solutions and developers, as well as Kozot, an innovative robotics company.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🔤 Natural Language Processing
-  - 🖼 Computer Vision
-  - 🤖 Reinforcement Learning
-  - Building and scaling AI solutions
-  - 🚀 Robotics and AI integrations
-- 📝 I write about AI and tech on various platforms.
-- ⚽ Football enthusiast
-- 🧊 Speed Cuber
-- 🎮 Occasional gamer
-- :book: Tech bookworm
-- Fascinated by the cosmos and space exploration! 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavelrh&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Pavelrh's's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelrh&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavelrh&" alt="Pavelrh" />
 </p>
