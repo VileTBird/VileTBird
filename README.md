@@ -25,7 +25,7 @@ I aim to revolutionize big tech & the world with my expertise. Let's connect and
 </p>
 
 <p align="center">
-     <H1>Skill zone</H1>
+     <H1>Skills</H1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,kali,linux,bash,anaconda,tensorflow,pytorch,sklearn,opencv,raspberrypi,arduino,unity,unreal,androidstudio,firebase,mysql,mongodb,selenium,nodejs,dotnet,nextjs,react,angular,express,discordjs,kubernetes,docker,git,github,notion,jira" />
   </a>
@@ -43,3 +43,7 @@ I aim to revolutionize big tech & the world with my expertise. Let's connect and
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavelrh&" alt="Pavelrh" />
 </p>
+
+[![Trends](https://api.githubtrends.io/user/svg/Pavelrh/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/Pavelrh)
+[![Trends](https://api.githubtrends.io/user/svg/Pavelrh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/Pavelrh)
+
