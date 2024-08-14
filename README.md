@@ -16,5 +16,5 @@
     <img src="https://skillicons.dev/icons?i=ai,kali,linux,bash,anaconda,tensorflow,pytorch,sklearn,opencv,raspberrypi,arduino,unity,unreal,androidstudio,firebase,mysql,mongodb,selenium,nodejs,dotnet,nextjs,react,angular,express,discordjs,kubernetes,docker,git,github,notion,jira" />
   </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavelrh&" alt="Pavelrh" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bozoten&" alt="Pavelrh" />
 
