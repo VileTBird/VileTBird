@@ -22,9 +22,13 @@
             <img src="https://skillicons.dev/icons?i=ai,kali,linux,bash,anaconda,tensorflow,pytorch,sklearn,opencv,raspberrypi,arduino,unity,unreal,androidstudio,firebase,mysql,mongodb,selenium,nodejs,dotnet,nextjs,react,angular,express,discordjs,kubernetes,docker,git,github,notion,jira" alt="Skills"/>
         </a>
     </p>
+
+![Pavel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bozoten&size_weight=0.25&count_weight=0.5&layout=donut&theme=&langs_count=10)
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=bozoten" alt="Streak Stats"/>
     </p>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozoten&langs_count=7&hide=html,css)
+
 </div>
+
+
+
