@@ -9,10 +9,10 @@
         <img src="https://komarev.com/ghpvc/?username=Pavelrh&style=flat-square" alt="Profile Views"/>
     </p>
     <p>
-        I’ve been building stuff with garbage since I was a kid just moved on to AI, IoT, and research over time.
+        I’ve been building stuff with garbage since I was a kid and I just moved on to AI, robotics, and research over time.
     </p>
     <p>
-        I lead an intelligent team of engineers at my startup, I'm learning robotics, & working on a research paper in Big Data. It'll go Open Source eventually, so check it out if you're down.
+        I lead an intelligent team of engineers at my startup, I'm learning robotics, & working on a research paper in Big Data. It'll go Open Source eventually, so check it out if you're down. Oh, and I shitpost about tech and other random stuff on Twitter when I’m not building.
     </p>
     <p>
         <a href="https://shridharapavel.lol">
