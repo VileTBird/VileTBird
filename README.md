@@ -1,13 +1,13 @@
 <div align="left" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px; color: white; text-shadow: 1px 1px 2px black;">
-    <h2>Hi, I'm <a href="https://shridharapavel.lol" style="color: #ff9900;">Pavel</a></h2>
+    <h2>Hi, I'm <a href="https://bozo10.onrender.com/" style="color: #ff9900;">Pavel</a></h2>
     </p>
     <p>
-        <a href="https://shridharapavel.lol">
+        <a href="https://bozo10.onrender.com/">
             <img src="https://github.com/Pavelrh/gif/blob/main/spiderman.gif" width="70" alt="Spiderman"/>
         </a>
     </p>
         <p>
-        <a href="https://shridharapavel.lol">
+        <a href="https://bozo10.onrender.com/">
             Website
         </a>
         |
