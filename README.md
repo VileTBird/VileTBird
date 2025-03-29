@@ -1,9 +1,11 @@
-<div align="left">
+<h1 align="center">I'm Pavel</h1>
+<h3 align="center">Programmer, Full-stack dev, ML eng. </h3>
 
-|<!-- -->    | <!-- -->   |
-| ------------- | ------------- |
-| <a href="https://github.com/bozoten"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozoten&theme=swift&hide_border=true&border_radius=6&include_all_commits=true&type=svg&count_private=true&layout=compact&hide=html,handlebars" alt="Top Languages"/></a>  | <a href="https://github.com/bozoten"><img align="center" height=200  src="https://streak-stats.demolab.com?user=bozoten&theme=swift&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&type=svg" alt="Git Activity"/></a> 
-</div>
-</div>
+<p align='left'>
+<img src="https://github-readme-stats.vercel.app/api?username=viletbird&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="viletbird GitHub stats" height="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viletbird&show_icons=true&layout=pie" alt="viletbird Top Langs" height="350" />
+</p>
 
+## More
 
+I've worked a bunch in many fields and a wide variety of projects mainly in Game Dev (Unity, C#), Full stack Dev (JS/TS, Node.JS, React, Next.Js, Angular yada yada) and finally ML (PyTorch, Sckitlearn, Tensorflow, Pandas, SQL etc). I've worked on ML + Full-Stack the longest and I'm currently set to take an ML internship role for the summer. Right now I'm building games in my free time while looking for work in the industry, if you ever need anything or have an offer feel free to email me @ asuraspru@gmail.com or message me on twitter <a href="https://twitter.com/viletbird" target="_blank" alt="Twitter">@ VileTBird</a>
