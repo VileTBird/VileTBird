@@ -10,8 +10,8 @@ If you wanna chat, or shoot over an opportunity, hit me up at **asuraspru@gmail.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viletbird&show_icons=true&theme=radical&hide_title=true&hide_rank=true&custom_title=Stats&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viletbird&layout=compact&theme=radical&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bozo10n&show_icons=true&theme=radical&hide_title=true&hide_rank=true&custom_title=Stats&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozo10n&layout=compact&theme=radical&card_width=400" />
 </p>
 
 ---
