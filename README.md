@@ -5,7 +5,7 @@ I've done a lot across a bunch of fields, mainly Game Dev (Unity, C#), Full Stac
 ML + Full Stack is where I’ve spent the most time, and I’m set to take on an ML internship this summer.
 
 Right now, I’m making weird little games in my free time and learning GPU programming while on the hunt for roles in the industry.  
-If you wanna chat, or shoot over an opportunity, hit me up at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/viletbird" target="_blank">@VileTBird</a>
+If you wanna chat, or shoot over an opportunity, hit me up at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
 ---
 
