@@ -1,12 +1,15 @@
 
+I'm an ML systems and performance engineer in training, currently focused on CUDA and machine learning performance. I'm working through an ML internship and am especially interested in low-level development. My background spans full-stack applications, game development, and computation-heavy tools, so I'm open to a wide range of roles as a generalist. If you have any contract opportunities or offers, feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
-I've done a lot across a bunch of fields, mainly Game Dev (Unity, C#), Full Stack (JS/TS, Node.js, React, Next.js, Angular-yada yada), and Machine Learning (PyTorch, Scikit-learn, TensorFlow, Pandas, SQL, etc).  
+Tools I've worked with:
 
-ML + Full Stack is where I’ve spent the most time, and I’m set to take on an ML internship this summer.
+    ML Performance: CUDA-C
 
-Right now, I’m making weird little games in my free time and learning GPU programming while on the hunt for roles in the industry.  
-If you wanna chat, or shoot over an opportunity, hit me up at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
+    Machine Learning: PyTorch, Scikit-learn, TensorFlow, Pandas, SQL etc
 
+    Game Development: Unity, C#
+
+    Full Stack: JavaScript, Node.js, React, Next.js, Angular, and others
 ---
 
 <p align="center">
@@ -21,8 +24,8 @@ If you wanna chat, or shoot over an opportunity, hit me up at **asuraspru@gmail.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **[CommitCloud](https://github.com/VileTBird/CommitCloud)** | A free infinite file storage hack that uses GitHub commits as storage. | Python |
-| **[Ball-thullu](https://github.com/VileTBird/Ball-thullu)** | A survival horror game with swarming cosmic horror vibes. (POC for a full commercial version in the works) | Unity, Blender |
-| **[RawTorch](https://github.com/VileTBird/RawTorch)** | A CUDA-backed computation lib for Python. | C++, CUDA, Python |
+| **[Ball-thullu](https://github.com/VileTBird/Ball-thullu)** | A survival horror game with swarm based boss, built using the flocking algo. (POC for a full commercial version in the works) | Unity, Blender |
+| **[RawTorch](https://github.com/VileTBird/RawTorch)** | A CUDA-backed computation lib for Python. (WIP) | C++, CUDA, Python |
 | **[VHub-Server](https://github.com/VileTBird/VHub-Server)** | Version control system with switchable backends (Obj+Graph, Fs+SQL, Delta+Graph). | Python, React |
 | **[Portfolio](https://github.com/VileTBird/Portfolio)** | A personal portfolio site with blog support and user auth. | Handlebars, Node js, Express |
 | **[CUDA-C](https://github.com/VileTBird/CUDA-C)** | Scripts + notes from my CUDA + low-level deep dive. | CUDA C |
